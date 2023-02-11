@@ -1,5 +1,8 @@
 [
   {
     "package": "SAIGEgds"
+  },
+  {
+    "package": "SCArray"
   }
 ]
